@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ariany
-- 👀 I’m interested in Coding on #Java # SQL #Ruby #JavaScript #HTML #CSS 
+- 👀 I’m interested in Coding on #Java # SQL #Ruby #JavaScript #HTML #CSS......
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on code projects
 - 📫 How to reach me email me. 
